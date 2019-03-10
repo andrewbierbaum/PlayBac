@@ -2,4 +2,4 @@
 Made to track frame-by-frame bacterial movement in visual C++.
 TestVideo.avi and PlayBac.exe are included to see the result.
 
-See PlayBacDlg.cpp for source code.
+See PlayBacDlg.cpp for source code. Built in Visual Studio .Net 2003.
